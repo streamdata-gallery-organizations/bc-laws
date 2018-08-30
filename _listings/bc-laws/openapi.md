@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: BC Laws
 x-complete: 1
@@ -222,4 +221,3 @@ paths:
       - Search
       - AspectId
       - Fullsearch
----
